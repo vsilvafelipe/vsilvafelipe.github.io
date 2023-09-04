@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Felipe Vilela da Silva"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Marine Science. BSc (Hons) in Oceanograhy."
   location         : "Hobart, Tas, AU"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : # ""
+  googlescholar    : # ""
   email            : "felipe.dasilva@utas.edu.au"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Felipe-Da-Silva-8"
+  researchgate     : "https://www.researchgate.net/profile/Felipe-Da-Silva-8"
   uri              :
   bitbucket        :
   codepen          :
