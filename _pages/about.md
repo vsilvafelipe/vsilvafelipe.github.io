@@ -10,4 +10,4 @@ redirect_from:
 
 This is Felipe Vilela da Silva's web page
 
-+Lorem ipsum
+It is under construction.
