@@ -13,7 +13,7 @@ name                     : &name "Felipe Vilela da Silva"
 description              : &description "PhD Candidate in Marine Science. BSc (Hons) in Oceanograhy."
 url                      : https://vsilvafelipe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vsilvafelipe/vsilva.github.io"
+repository               : "vsilvafelipe/vsilvafelipe.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
