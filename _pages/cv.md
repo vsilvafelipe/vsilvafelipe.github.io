@@ -15,20 +15,6 @@ Education
 * Sandwich Honours in Physical Oceanography, University of Sao Paulo and University of Massachusetts Dartmouth, 2019
 * Ph.D in Quantitative Marine Science, UTas and CSIRO, 2024 (expected)
 
-Industry experience
-======
-* Mar--Sep 2020: Environmental Analyst at AMBILEV and Petrobras, Santos, BR
-* Mar--Jun 2018: Environmental Educator at UGGI: Educacao Ambiental, BR
-* Aug 2013 -- Dec 2018: English Teacher at Wizard, Sao Paulo, BR
-
-Oceanographic Sampling: 1527 hours on board
-======
-* SWOT voyage at the Macquarie Ridge region, Southern Ocean, in Dec 2023. Chief Scientist: Benoit Legresy
-* Ilhas III project at the Santos and Campos Basins, Southwest Atlantic, in Dec 2019. Chief Scientist: Ilson C. A. Silveira
-* SPIROPA project at the Pionner Array off the coast of New England, Northwest Atlantic, in May 2019. Chief Scientist: Dennis McGillicuddy
-* Ilhas II project at the Vitoria-Trindade Seamount Chain, Southwest Atlantic, in Aug 2017. Chief Scientist: Ilson C. A. Silveira
-* Ilhas I project at the Vitoria-Trindade Seamount Chain, Southwest Atlantic, in Feb 2017. Chief Scientist: Paulo Henrique Rezende Calil
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -44,3 +30,24 @@ Talks
 Service
 ======
 * Organizer and convenor of the Ocean Extremes Workshop offered by the ARC Centre of Excellence for Climate Extremes.
+
+Awards
+======
+* 2022: Best Student Inquisitor at the COSIMA VI workshop in Hobart, Tas, AU
+* 2019: Honorable Mention at the 27\degree International Symposium of Scientific Initiation at USP, Sao Paulo, SP, BR
+* 2019: Second place in oral presentations at the Brazilian conference of Physical Oceanography, XIII OMARSAT, Arraial do Cabo, RJ, BR
+* 2008: Bronze Medal at the Brazilian Astronomy Olympiad, OBA
+
+Industry experience
+======
+* Mar--Sep 2020: Environmental Analyst at AMBILEV and Petrobras, Santos, BR
+* Mar--Jun 2018: Environmental Educator at UGGI: Educacao Ambiental, BR
+* Aug 2013 -- Dec 2018: English Teacher at Wizard, Sao Paulo, BR
+
+Oceanographic Sampling: 1527 hours on board
+======
+* SWOT voyage at the Macquarie Ridge region, Southern Ocean, in Dec 2023. Chief Scientist: Benoit Legresy
+* Ilhas III project at the Santos and Campos Basins, Southwest Atlantic, in Dec 2019. Chief Scientist: Ilson C. A. Silveira
+* SPIROPA project at the Pionner Array off the coast of New England, Northwest Atlantic, in May 2019. Chief Scientist: Dennis McGillicuddy
+* Ilhas II project at the Vitoria-Trindade Seamount Chain, Southwest Atlantic, in Aug 2017. Chief Scientist: Ilson C. A. Silveira
+* Ilhas I project at the Vitoria-Trindade Seamount Chain, Southwest Atlantic, in Feb 2017. Chief Scientist: Paulo Henrique Rezende Calil
