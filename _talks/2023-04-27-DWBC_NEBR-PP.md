@@ -8,6 +8,6 @@ date: 2023-04-27
 location: "Australia"
 ---
 
-[Click here to access the slides](https://drive.google.com/file/d/1GQrJD6Fw0uuk8U1fOmVh1DwmEQdibqNZ/view?usp=drive_link)
+[Click here to access the slides](https://vsilvafelipe.github.io/files/dwbc_mtg_27apr2023.pdf)
 
 This talk summarizes the JGR-Oceans paper with the tile "On the Deep Western Boundary Current Separation and Anticyclone Genesis off Northeast Brazil" by Vilela-Silva, F., et al. (2023).
