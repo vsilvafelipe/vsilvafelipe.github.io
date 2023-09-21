@@ -1,7 +1,7 @@
 ---
 title: "On the Deep Western Boundary Current Separation and Anticyclone Genesis off Northeast Brazil"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2023-01-25-DWBC_NEBR_PP-2
 excerpt: 'The local separation and regional energy exchange along this deep current contribute to further discussions about the pathways of the AMOC and heat fluxes in the South Atlantic.'
 date: 2023-01-25
 venue: 'JGR: Oceans'
