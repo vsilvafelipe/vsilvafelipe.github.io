@@ -1,7 +1,7 @@
 ---
 title: "Development of a feature-oriented regional modelling system for the North Brazil Undercurrent region (1°–11°S) and its application to a process study on the genesis of the Potiguar Eddy"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-03-23-FORMS_NBUC_PE-1
 excerpt: 'We investigate the genesis of a subsurface frontal meander of the NBUC, centred at about 4°S, 36.5°W, called the Potiguar Eddy (PE). The Feature Models (FMs) of NBUC and DWBC are first developed from observed velocity data.'
 date: 2020-03-23
 venue: 'Journal of Operational Oceanography'
