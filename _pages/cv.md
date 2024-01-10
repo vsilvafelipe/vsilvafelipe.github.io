@@ -44,7 +44,7 @@ Industry experience
 * Mar--Jun 2018: Environmental Educator at UGGI: Educacao Ambiental, BR
 * Aug 2013 -- Dec 2018: English Teacher at Wizard, Sao Paulo, BR
 
-Oceanographic Sampling: 1527 hours on board
+Oceanographic Sampling: 2391 hours on board
 ======
 * SWOT voyage at the Macquarie Ridge region, Southern Ocean, in Dec 2023. Chief Scientist: Benoit Legresy
 * Ilhas III project at the Santos and Campos Basins, Southwest Atlantic, in Dec 2019. Chief Scientist: Ilson C. A. Silveira
