@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate in Quantitative Marine Science, UTas and CSIRO, 2024 (expected)
-* Sandwich Honours in Physical Oceanography, University of Sao Paulo and University of Massachusetts Dartmouth, 2019
-* B.S. in Oceanography, University of Sao Paulo, 2020
+* Ph.D Candidate in Quantitative Marine Science at UTas-CSIRO-CLEX-AAPP, Hobart, Tas, AU. (expected to 2024)
+* B.S. in Oceanography at USP, Sao Paulo, SP, Brazil. (2020)
+* Sandwich Honours in Physical Oceanography at USP, Sao Paulo, SP, Brazil and UMassD, New Bedford, MA, USA. (2019)
   
 Publications
 ======
