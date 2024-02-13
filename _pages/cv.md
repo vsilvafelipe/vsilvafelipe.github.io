@@ -29,7 +29,7 @@ Talks
   
 Service
 ======
-* Organizer and convenor of the Ocean Extremes Workshop offered by the ARC Centre of Excellence for Climate Extremes.
+* Organizer and convener of the Ocean Extremes Workshop offered by the ARC Centre of Excellence for Climate Extremes.
 
 Awards
 ======
