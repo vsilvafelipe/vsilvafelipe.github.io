@@ -9,11 +9,11 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "The road so far"
+    url: /portfolio/
+
   # - title: "Teaching"
   #  url: /teaching/    
-    
-  - title: "The road so far"
-   url: /portfolio/
         
   # - title: "Blog"
   #  url: /blog/
