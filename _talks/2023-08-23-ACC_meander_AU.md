@@ -2,7 +2,7 @@
 title: "ACC Meanders Enhance Air-Sea Heat Flux and Water Subduction"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-08-23-ACC_meander_AU.md
+permalink: /talks/2023-08-23-ACC_meander_AU
 venue: "Southern Ocean Observing System"
 date: 2023-08-23
 location: "Australia"
