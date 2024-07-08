@@ -1,13 +1,13 @@
 ---
-title: "How whirlpools are generated in the deep ocean off Northeast Brazil?"
+title: "ACC Meanders Enhance Air-Sea Heat Flux and Water Subduction"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-04-27-DWBC_NEBR-PP
-venue: "COSIMA meeting"
-date: 2023-04-27
+permalink: /talks/2023-08-23-ACC_meander_AU.md
+venue: "Southern Ocean Observing System"
+date: 2023-08-23
 location: "Australia"
 ---
 
-[Click here to access the slides](https://vsilvafelipe.github.io/files/DWBC_NEBR_VilelaSilva_Felipe_24Apr.pdf)
+[Click here to access the slides](https://vsilvafelipe.github.io/files/SOOS_VilelaSilva_etal_2023_ACCmeanders.pdf)
 
-This talk summarizes the JGR-Oceans paper "On the Deep Western Boundary Current Separation and Anticyclone Genesis off Northeast Brazil" by Vilela-Silva, F., et al. (2023).
+This talk summarizes the JGR-Oceans paper "The impact of an Antarctic Circumpolar Current meander on air-sea interaction and water subduction" by Vilela-Silva, F., et al. (2024).
