@@ -34,7 +34,7 @@ Service
 Awards
 ======
 * 2022: Best Student Inquisitor at the COSIMA VI workshop in Hobart, Tas, AU
-* 2019: Honorable Mention at the 27\degree International Symposium of Scientific Initiation at USP, Sao Paulo, SP, BR
+* 2019: Honorable Mention at the 27&deg; International Symposium of Scientific Initiation at USP, Sao Paulo, SP, BR
 * 2019: Second place in oral presentations at the Brazilian conference of Physical Oceanography, XIII OMARSAT, Arraial do Cabo, RJ, BR
 * 2008: Bronze Medal at the Brazilian Astronomy Olympiad, OBA
 
