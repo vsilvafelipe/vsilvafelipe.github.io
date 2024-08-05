@@ -12,8 +12,8 @@ main:
   - title: "The road so far"
     url: /portfolio/
 
-  # - title: "Teaching"
-  #  url: /teaching/    
+  - title: "Teaching"
+   url: /teaching/    
         
   # - title: "Blog"
   #  url: /blog/
