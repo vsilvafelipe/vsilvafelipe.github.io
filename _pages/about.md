@@ -14,3 +14,7 @@ His research interests are (i) heat fluxes and momentum exchange between the Ant
 At the moment, he is a PhD candidate for Quantitative Marine Science at the joint program between the University of Tasmania (UTas) and the Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Australia. Felipe is also affiliated to the Centre for Climate Extremes (ARC Clex) and Australian Antarctic Program Partnership (AAPP). 
 
 Previously, Felipe did a honours research for physical oceanography at the University of Sao Paulo (USP), BR and University of Massachusetts Dartmouth (UMassD), USA. Felipe also worked as an Environmental Analyst at AMBILEV/PETROBRAS, Environmental Educator at UGGI, and English teacher in Brazil.
+
+<img src='/images/SO_sunset2.jpeg'
+     width  = '300px'
+     height = 'auto' />
