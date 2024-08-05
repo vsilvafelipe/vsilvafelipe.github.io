@@ -16,5 +16,5 @@ At the moment, he is a PhD candidate for Quantitative Marine Science at the join
 Previously, Felipe did a honours research for physical oceanography at the University of Sao Paulo (USP), BR and University of Massachusetts Dartmouth (UMassD), USA. Felipe also worked as an Environmental Analyst at AMBILEV/PETROBRAS, Environmental Educator at UGGI, and English teacher in Brazil.
 
 <img src='/images/SO_sunset2.jpeg'
-     width  = '300px'
+     width  = '700px'
      height = 'auto' />
