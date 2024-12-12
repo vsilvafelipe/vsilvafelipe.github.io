@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Felipe Vilela da Silva"
 title_separator          : "-"
 name                     : &name "Felipe Vilela da Silva"
-description              : &description "Oceanographer. PhD Candidate in Marine Science. BSc w/ Hons in Oceanograhy."
+description              : &description "PhD in Marine Science <br /> BSc w/ Hons in Oceanograhy"
 url                      : https://vsilvafelipe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vsilvafelipe/vsilvafelipe.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vilela-Silva, Felipe"
   avatar           : "profile.png"
-  bio              : "Oceanographer. PhD Candidate in Marine Science. BSc w/ Hons in Oceanograhy."
+  bio              : "PhD in Marine Science <br /> BSc w/ Hons in Oceanograhy"
   location         : "Hobart, Tas, AU"
   employer         :
   pubmed           : # ""
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1967-880X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
