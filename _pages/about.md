@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Felipe is a researcher, rider, and rock climber (not much, but he wants to climb more). 
-His current research interests are  (i) mechanisms of variability of the Ocean Conveyor Belt (ii) heat fluxes and momentum exchange between the Antarctic Circumpolar Current and the atmosphere, (iii) water subduction in the Southern Ocean, and (iv) eddy genesis along the Deep Western Boundary Current in the South Atlantic.
+His current research interests are (i) mechanisms of variability of the Ocean Conveyor Belt, (ii) air-sea interaction along the Antarctic Circumpolar Current, (iii) water subduction in the Southern Ocean, and (iv) eddy genesis at the Deep Western Boundary Current in the South Atlantic.
 
 At the moment, Felipe works as a postdoctoral researcher at the _Institut Français de Recherche pour l'Exploitation de la Mer_ (IFREMER). He is also a University Associate at the University of Tasmania (UTas).
 
