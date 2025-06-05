@@ -33,11 +33,12 @@ Service
 
 Awards
 ======
-* 2024: Poster Prize at the Australian Research Council Centre of Excellence for Climate Extremes
-* 2022: Best Student Inquisitor at the Consortium for Ocean-Sea Ice Modelling in Australia VI workshop
-* 2019: Honorable Mention at the 27&deg; International Symposium of Scientific Initiation at USP
-* 2019: Second place in oral presentations at the Brazilian conference of Physical Oceanography, XIII OMARSAT
-* 2008: Bronze Medal at the Brazilian Astronomy Olympiad, OBA
+* 2025: Achievement – The University of Tasmania Roll of Excellence
+* 2024: Poster Prize - Australian Research Council Centre of Excellence for Climate Extremes
+* 2022: Best Student Inquisitor - Consortium for Ocean-Sea Ice Modelling in Australia VI workshop
+* 2019: Honorable Mention - 27&deg; International Symposium of Scientific Initiation at USP
+* 2019: Second place in oral presentations - Brazilian conference of Physical Oceanography, XIII OMARSAT
+* 2008: Bronze Medal - Brazilian Astronomy Olympiad, OBA
 
 Industry experience
 ======
