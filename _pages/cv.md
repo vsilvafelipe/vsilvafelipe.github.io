@@ -46,10 +46,11 @@ Industry experience
 * Mar--Jun 2018: Environmental Educator at UGGI: Educacao Ambiental, BR
 * Aug 2013 -- Dec 2018: English Teacher at Wizard, Sao Paulo, BR
 
-Oceanographic Sampling: 2391 hours on board
+Oceanographic Sampling: 2888 hours on board
 ======
-* SWOT voyage at the Macquarie Ridge region, Southern Ocean, in Dec 2023. Chief Scientist: Benoit Legresy
-* Ilhas III project at the Santos and Campos Basins, Southwest Atlantic, in Dec 2019. Chief Scientist: Ilson C. A. Silveira
-* SPIROPA project at the Pionner Array off the coast of New England, Northwest Atlantic, in May 2019. Chief Scientist: Dennis McGillicuddy
-* Ilhas II project at the Vitoria-Trindade Seamount Chain, Southwest Atlantic, in Aug 2017. Chief Scientist: Ilson C. A. Silveira
-* Ilhas I project at the Vitoria-Trindade Seamount Chain, Southwest Atlantic, in Feb 2017. Chief Scientist: Paulo Henrique Rezende Calil
+* CROSSROAD2 at the Flemish Cap, North Altantic in Sep 2023. Chief Scientist: Damien Desbruyères
+* SWOT voyage at the Macquarie Ridge region, Southern Ocean in Dec 2023. Chief Scientist: Benoit Legresy
+* Ilhas III at the Santos and Campos Basins, Southwest Atlantic in Dec 2019. Chief Scientist: Ilson C. A. Silveira
+* SPIROPA at the Pionner Array off the coast of New England, Northwest Atlantic in May 2019. Chief Scientist: Dennis McGillicuddy
+* Ilhas II at the Vitoria-Trindade Seamount Chain, Southwest Atlantic in Aug 2017. Chief Scientist: Ilson C. A. Silveira
+* Ilhas I at the Vitoria-Trindade Seamount Chain, Southwest Atlantic in Feb 2017. Chief Scientist: Paulo Henrique Rezende Calil
