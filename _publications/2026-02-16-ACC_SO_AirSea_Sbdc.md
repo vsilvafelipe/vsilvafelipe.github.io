@@ -3,7 +3,7 @@ title: "On Air-Sea Heat Flux, Subduction, and Ageostrophic Divergence in an Eddy
 collection: publications
 permalink: /publication/2026-02-16-ACC_SO_AirSea_Sbdc.md
 excerpt: 'In this study, we use an eddy-resolving global ocean-sea ice model, forced by an atmospheric reanalysis, to estimate the subduction due to the mean flow and also, for the first time, directly compute the horizontal and vertical eddy contributions to subduction in the Southern Ocean.'
-date: 2026-02-26
+date: 2026-02-16
 venue: 'Journal of Physical Oceanography'
 paperurl: 'https://doi.org/10.1175/JPO-D-24-0223.1'
 ---
